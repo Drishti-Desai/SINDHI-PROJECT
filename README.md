@@ -2,6 +2,10 @@ SINDHIMP is a Deep Learning–based OCR (Optical Character Recognition) system d
 
 The project combines Computer Vision, Deep Learning, and OCR technologies to help preserve and digitize historical Sindhi manuscripts and handwritten documents.
 
+SINDHIMP is a beginner-level research and development project focused on handwritten Sindhi character recognition using Deep Learning and Optical Character Recognition (OCR).
+
+The project serves as a foundational prototype for future large-scale digitization of handwritten Sindhi manuscripts and documents. It is intended to be further enhanced and expanded for potential use in collaboration with the Institute of Sindhology for preservation of Sindhi linguistic and cultural heritage.
+
 The system uses:
 OpenCV for image preprocessing
 CNN (Convolutional Neural Network) for character recognition
